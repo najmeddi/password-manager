@@ -16,6 +16,7 @@ This Python script is a password management application that provides various fu
 - Python 3.x
 - AES library (aes.py)
 - Password generator library (password_generator.py)
+- PyCryptodome as cryptographic library (to install, run `pip install pycryptodome`)
 
 ## Usage
 
